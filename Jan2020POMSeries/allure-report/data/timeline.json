@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Naveen-Mac.local",
+    "children" : [ {
+      "name" : "89523@Naveen-Mac.local.main(1)",
+      "children" : [ {
+        "name" : "login_InvalidTestCases",
+        "uid" : "e88aabfedb0875fb",
+        "parentUid" : "29bd3d6867d34454c65e05e6bb4ac458",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1584415813261,
+          "stop" : 1584415813264,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "c602b6be6ad34b46",
+        "parentUid" : "29bd3d6867d34454c65e05e6bb4ac458",
+        "status" : "broken",
+        "time" : {
+          "start" : 1584415851954,
+          "stop" : 1584415872471,
+          "duration" : 20517
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyLoginPageTitleTest",
+        "uid" : "1afb9f48da2e863b",
+        "parentUid" : "29bd3d6867d34454c65e05e6bb4ac458",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584415846931,
+          "stop" : 1584415846945,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySignUpLinkTest",
+        "uid" : "24310334171ab03c",
+        "parentUid" : "29bd3d6867d34454c65e05e6bb4ac458",
+        "status" : "broken",
+        "time" : {
+          "start" : 1584415821203,
+          "stop" : 1584415841560,
+          "duration" : 20357
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "29bd3d6867d34454c65e05e6bb4ac458"
+    } ],
+    "uid" : "43c89dea473b437a3d8153d60fa2625b"
+  } ]
+}

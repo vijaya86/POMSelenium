@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="7247" started-at="2020-03-13T02:42:03Z" finished-at="2020-03-13T02:42:10Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="7247" started-at="2020-03-13T02:42:03Z" finished-at="2020-03-13T02:42:10Z">
+      <class name="com.qa.hubspot.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@5f2050f6]" name="setUp" is-config="true" duration-ms="2902" started-at="2020-03-13T02:42:03Z" finished-at="2020-03-13T02:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySignUpLinkTest()[pri:1, instance:com.qa.hubspot.tests.LoginPageTest@5f2050f6]" name="verifySignUpLinkTest" duration-ms="4202" started-at="2020-03-13T02:42:06Z" finished-at="2020-03-13T02:42:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignUpLinkTest -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:2, instance:com.qa.hubspot.tests.LoginPageTest@5f2050f6]" name="verifyLoginPageTitleTest" duration-ms="14" started-at="2020-03-13T02:42:10Z" finished-at="2020-03-13T02:42:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@5f2050f6]" name="tearDown" is-config="true" duration-ms="113" started-at="2020-03-13T02:42:10Z" finished-at="2020-03-13T02:42:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.LoginPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

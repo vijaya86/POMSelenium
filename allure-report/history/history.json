@@ -1,0 +1,80 @@
+{
+  "4117aed53cb4eca90b1719089b039707" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24310334171ab03c",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.linkText: Sign up11 (tried for 20 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1584415821203,
+        "stop" : 1584415841560,
+        "duration" : 20357
+      }
+    } ]
+  },
+  "9858d24c9f24f2a4b2a19f103caf8c66" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e88aabfedb0875fb",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1584415813261,
+        "stop" : 1584415813264,
+        "duration" : 3
+      }
+    } ]
+  },
+  "959e4fb46fa94d1472896704174d4c41" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1afb9f48da2e863b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1584415846931,
+        "stop" : 1584415846945,
+        "duration" : 14
+      }
+    } ]
+  },
+  "b6e3dba4facb306284eabf5629dc4b88" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c602b6be6ad34b46",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.cssSelector: span.account-name  (tried for 20 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1584415851954,
+        "stop" : 1584415872471,
+        "duration" : 20517
+      }
+    } ]
+  }
+}

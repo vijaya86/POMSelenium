@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Expected condition failed: waiting for presence of element located by: By.linkText: Sign up11 (tried for 20 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "verifySignUpLinkTest",
+        "uid" : "24310334171ab03c",
+        "parentUid" : "40b19fd1daccdf58d7e758d0ce8c4eb5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1584415821203,
+          "stop" : 1584415841560,
+          "duration" : 20357
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "40b19fd1daccdf58d7e758d0ce8c4eb5"
+    }, {
+      "name" : "Expected condition failed: waiting for presence of element located by: By.cssSelector: span.account-name  (tried for 20 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "c602b6be6ad34b46",
+        "parentUid" : "56fff38932ecc9e3466e6538ad424fc8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1584415851954,
+          "stop" : 1584415872471,
+          "duration" : 20517
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "56fff38932ecc9e3466e6538ad424fc8"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
